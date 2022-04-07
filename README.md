@@ -16,9 +16,9 @@ The aim of this project is to build a secured campus network design, which can d
 
 ### Conclusion:
 - We created design of Campus Area Network using Cisco Packet Tracer.
-- We learned and implemented VLANS for segregation of (Dept Head, Professors, Students Labs), InterVlan Routing (Router on Stick Method) for interVlan communication     between different departments, OSPF Routing Protocol for finding best routing path Access Control Lists to permit deny traffic.
+- We learned and implemented VLANS for segregation of (Dept Head, Professors, Students Labs), InterVlan Routing (Router on Stick Method) for interVlan communication     between different departments, OSPF Routing Protocol for finding best routing path, Access Control Lists to permit and deny traffic.
 - We learned about different servers such as ( HTTP, SMTP, FTP, DHCP) and added these multiple services in one server.
-- We have done data center survey to know about existing college network for comparative analysis with our design of campus network.
+- We done data center survey to know about existing college network for comparative analysis with our design of campus network.
 - We learned and prevented common attacks that are possible in campus network such as (ARP Spoofing, DHCP Snooping, DHCP Starvation Attack, VLAN Hopping)
 
 
